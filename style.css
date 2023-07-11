@@ -1,0 +1,20 @@
+body{
+    background: url(Mulheres-na-tecnologia.png) no-repeat;
+    background-size: cover;
+
+}
+* {
+    margin: 0;
+    padding: 0;
+    color: bisque;
+}
+h1{
+
+    margin-top: 230px;
+    margin-bottom: 50px;
+    text-align: center;
+}
+p{
+    text-align: center;
+    padding: 5px;
+}
